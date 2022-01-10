@@ -1,5 +1,6 @@
-from class_parser import Parser
 
+from class_parser import Parser
+import time
 
 def main():
     new_parser = Parser("example.txt")
@@ -9,3 +10,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+    start = time.time()
+    print(f"Total time to execute was {time.time() - start}")
