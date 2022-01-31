@@ -1,3 +1,10 @@
+
+This is a project for an internship in the company Qpick 
+Python Project
+
+
+
+
 # Data parser
 Python data parser exersize 
 
