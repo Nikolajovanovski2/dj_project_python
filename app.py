@@ -1,7 +1,7 @@
 
 from class_parser import Parser
 import time
-import library
+import word_processor
 
 def main():
     new_parser = Parser("example.txt")
