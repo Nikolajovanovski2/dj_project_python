@@ -79,7 +79,7 @@ The parse must return a "list []" of sentences and a list of statistics in a dic
 Example:
 
 ```python
-{ 'sentences': [...], 'stats': { 'total_sentences': 10, 'total_chars': 1000 }
+{ 'sentences': [...], 'stats': { 'total_sentences': 10, 'total_chars': 1000 },}
 ```
 
 6. Printing data - OUTPUT
@@ -93,6 +93,12 @@ Found total of {total_sentences} sentences. With total of {total_chars} characte
 ```
 
 5. Extra steps. Print at the bottom total time needed to read and print the file
+
+
+
+#How to install NLTK in project 
+- https://www.nltk.org/install.html
+- import nltk in project and tokens
 
 # Hints
 
