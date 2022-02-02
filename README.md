@@ -100,6 +100,11 @@ Found total of {total_sentences} sentences. With total of {total_chars} characte
 - https://www.nltk.org/install.html
 - import nltk in project and tokens
 
+NLTK is a toolkit build for working with NLP in Python.
+It provides us various text processing libraries with a lot of test datasets. 
+A variety of tasks can be performed using NLTK such as tokenizing, 
+parse tree visualization.
+
 # Hints
 
 - We use the *open* built-in function in order to read file content.
