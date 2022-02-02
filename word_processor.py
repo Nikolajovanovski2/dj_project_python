@@ -3,7 +3,8 @@ from nltk.tokenize import word_tokenize
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import wordnet as wn
 
-query = "The bruises along his rib cage and left arm, though, he did not"
+query = "The bruises along his rib cage and left arm though he did not"
+
 
 def word_form_noun(tag):
     return tag in ['NN', 'NNS', 'NNP', 'NNPS']
