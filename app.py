@@ -1,9 +1,6 @@
-
 from class_parser import Parser
 import time
-import word_processor
-import letter_char_frequency
-
+import word_letter_char_test
 
 def main():
     new_parser = Parser("example.txt")

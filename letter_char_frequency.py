@@ -1,3 +1,4 @@
+
 chars = []
 with open('example.txt', 'r') as fileInput:
     for line in fileInput:
